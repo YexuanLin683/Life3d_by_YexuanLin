@@ -1,0 +1,2 @@
+# Life3d_by_YexuanLin
+这里装着林业轩对于并行程序设计的CUDA编程相关作业
