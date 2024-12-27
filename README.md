@@ -1,7 +1,7 @@
 # Life3d_by_YexuanLin
-这里装着林业轩对于并行程序设计的CUDA编程相关作业
+Here are LYX <并行程序设计>课程的CUDA编程相关作业
 
-# 实验是在实验室的NVIDIA Tesla V100上进行的
+# 测试实验是在实验室的NVIDIA Tesla V100上进行的
 
 life3d.cu 是原始的串行版本。
 N = 256 T = 32下：时间为36s左右
